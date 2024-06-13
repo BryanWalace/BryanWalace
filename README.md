@@ -49,7 +49,7 @@
 
 * 🌍  Estou localizado em Curitiba - PR
 * 🖥️  Veja meu [Portifolio](https://bryanwalace.github.io/Portfolio-Bryan-Walace/)
-* 🧠  Estou aprendendo Reac + Tailwinds
+* 🧠  Estou aprendendo React + Tailwinds
 
 
 <div align="center">
