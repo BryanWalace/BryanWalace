@@ -11,7 +11,6 @@
   Estudante de Análise e Desenvolvimento de sistemas.
 </div>
 
-<!-- Ícones das redes sociais alinhados à direita -->
 <p align="right">
   <a href="https://discord.com/users/bryan_walace" target="_blank" rel="noreferrer">
     <picture>
