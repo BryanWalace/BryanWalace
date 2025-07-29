@@ -53,7 +53,7 @@
 
 <div align="center">
   <a href="https://github.com/BryanWalace">
-    <img height="180em" src="[https://github-readme-stats.vercel.app/api?username=BryanWalace&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=151515&&show_icons=true](https://github-readme-stats.vercel.app/api?username=BryanWalace&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=151515&show_icons=true)" alt="BryanWalace meus status" />
+    <img height="180em" src="[https://github-readme-stats.vercel.app/api?username=BryanWalace&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=151515&&show_icons=true](https://github-readme-stats.vercel.app/api?username=BryanWalace&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=151515&&show_icons=true)" alt="BryanWalace meus status" />
   </a>
   
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanWalace&layout=compact&langs_count=7&theme=dark"/>
