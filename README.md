@@ -47,7 +47,7 @@
 
 
 * 🌍  Estou localizado em Curitiba - PR
-* 🖥️  Veja meu [Portifolio](##)
+<!-- * 🖥️  Veja meu [Portifolio](##) -->
 * 🧠  Estou aprendendo React + Tailwinds
 
 
