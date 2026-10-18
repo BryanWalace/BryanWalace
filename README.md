@@ -1,79 +1,88 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+  <img src="assets/banner-light.svg" width="100%" alt="Bryan Walace, desenvolvedor full-stack">
+</picture>
 
+Desenvolvedor full-stack em Curitiba. Construo aplicações web com React, Next.js, TypeScript e Node.js, com Firebase e Cloudflare na infraestrutura. Trabalho no suporte de TI do Instituto Pan Americano, onde criei o UniWake, que a equipe usa no dia a dia para ligar e agendar os computadores dos laboratórios. Formado em Análise e Desenvolvimento de Sistemas pela Universidade Positivo.
 
-<div align="right">
-  <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=BryanWalace.BryanWalace&right_color=blue&left_text=views"  />
-  <a href="https://www.github.com/BryanWalace" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/github/followers/BryanWalace?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
-  </a>
-</div>
+Aberto a vagas de desenvolvedor full-stack (remoto ou híbrido em Curitiba) e a projetos freelance.
 
-###
+[bryanwalace.dev](https://bryanwalace.dev) · [LinkedIn](https://www.linkedin.com/in/bryan-walace/) · [bryanwalace@gmail.com](mailto:bryanwalace@gmail.com)
 
-## Oii ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Meu nome é Bryan Walace 
+## 01 · Projetos
 
-###
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/BryanWalace/UniWake"><img src="assets/projects/uniwake.jpg" width="100%" alt="Painel do UniWake com as salas e a contagem de computadores ligados e desligados"></a>
+      <br><br>
+      <b><a href="https://github.com/BryanWalace/UniWake">UniWake</a></b>
+      <br>
+      Liga, desliga e agenda pelo navegador os computadores dos laboratórios de uma instituição de ensino. Roda como serviço do Windows e sincroniza os PCs da equipe de TI pela rede local.
+      <br>
+      <sub>TypeScript · Node.js · Fastify · React · TanStack Query · SQLite · Vitest · Playwright · GitHub Actions</sub>
+      <br>
+      <a href="https://github.com/BryanWalace/UniWake">Código</a> · <a href="https://github.com/BryanWalace/UniWake/releases">Releases</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://matchmakerfc.com.br"><img src="assets/projects/matchmaker.jpg" width="100%" alt="Tela inicial do MatchMaker FC com as opções de futsal e society"></a>
+      <br><br>
+      <b><a href="https://matchmakerfc.com.br">MatchMaker FC</a></b>
+      <br>
+      Sorteia times equilibrados para peladas e cria salas com link para os jogadores confirmarem presença sem instalar nada.
+      <br>
+      <sub>React · TypeScript · Vite · Zustand · Tailwind CSS · Firebase · Vitest · PWA</sub>
+      <br>
+      <a href="https://matchmakerfc.com.br">Demo</a> · código privado
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/BryanWalace/brasa-bot"><img src="assets/projects/brasa.jpg" width="100%" alt="Página inicial do painel web do Brasa Bot"></a>
+      <br><br>
+      <b><a href="https://github.com/BryanWalace/brasa-bot">Brasa Bot</a></b>
+      <br>
+      Organiza churrascos entre amigos com bot de Discord, painel web e pagamentos via Pix. O login com Discord passa por um Cloudflare Worker que emite o token do Firebase.
+      <br>
+      <sub>Next.js · React · Cloudflare Workers · Firebase · Discord Interactions · JWT</sub>
+      <br>
+      <a href="https://github.com/BryanWalace/brasa-bot">Código</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://ramd-seven.vercel.app"><img src="assets/projects/ramd.jpg" width="100%" alt="Galeria em grade masonry do portfólio de arte RAMD"></a>
+      <br><br>
+      <b><a href="https://github.com/BryanWalace/art-portfolio">Portfólio de Arte RAMD</a></b>
+      <br>
+      Portfólio interativo de arte digital e cosplay, com galeria, animações e três idiomas.
+      <br>
+      <sub>React · Vite · GSAP · Framer Motion · Swiper</sub>
+      <br>
+      <a href="https://github.com/BryanWalace/art-portfolio">Código</a> · <a href="https://ramd-seven.vercel.app">Demo</a>
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/bryan-walace/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.com/users/bryan_walace" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-  <a href="https://www.instagram.com/bryan_walace/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="mailto:bryanwalace@gmail.com" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-</div>
+Outros: [Bot de Vagas](https://github.com/BryanWalace/bot-discord-vagas), bot de Discord que coleta vagas por web scraping e publica no horário configurado · [Website of Architects](https://github.com/BryanWalace/website-of-architects), layout do Figma recriado com React Router ([demo](https://website-of-architects-lemon.vercel.app)).
 
-###
+## 02 · Stack
 
-<h2 align="left">Sobre Mim!!!</h2>
+| Área | Tecnologias |
+|---|---|
+| Linguagens | <img src="https://img.shields.io/badge/TypeScript-1B2016?style=flat-square&logo=typescript&logoColor=C3B091" alt="TypeScript"> <img src="https://img.shields.io/badge/JavaScript-1B2016?style=flat-square&logo=javascript&logoColor=C3B091" alt="JavaScript"> |
+| Front-end | <img src="https://img.shields.io/badge/React-1B2016?style=flat-square&logo=react&logoColor=C3B091" alt="React"> <img src="https://img.shields.io/badge/Next.js-1B2016?style=flat-square&logo=nextdotjs&logoColor=C3B091" alt="Next.js"> <img src="https://img.shields.io/badge/Tailwind%20CSS-1B2016?style=flat-square&logo=tailwindcss&logoColor=C3B091" alt="Tailwind CSS"> <img src="https://img.shields.io/badge/Zustand-1B2016?style=flat-square" alt="Zustand"> <img src="https://img.shields.io/badge/TanStack%20Query-1B2016?style=flat-square&logo=reactquery&logoColor=C3B091" alt="TanStack Query"> |
+| Back-end | <img src="https://img.shields.io/badge/Node.js-1B2016?style=flat-square&logo=nodedotjs&logoColor=C3B091" alt="Node.js"> <img src="https://img.shields.io/badge/Fastify-1B2016?style=flat-square&logo=fastify&logoColor=C3B091" alt="Fastify"> <img src="https://img.shields.io/badge/Zod-1B2016?style=flat-square&logo=zod&logoColor=C3B091" alt="Zod"> |
+| Dados | <img src="https://img.shields.io/badge/Firebase-1B2016?style=flat-square&logo=firebase&logoColor=C3B091" alt="Firebase"> <img src="https://img.shields.io/badge/SQLite-1B2016?style=flat-square&logo=sqlite&logoColor=C3B091" alt="SQLite"> |
+| Infra e entrega | <img src="https://img.shields.io/badge/Cloudflare%20Workers-1B2016?style=flat-square&logo=cloudflareworkers&logoColor=C3B091" alt="Cloudflare Workers"> <img src="https://img.shields.io/badge/Vercel-1B2016?style=flat-square&logo=vercel&logoColor=C3B091" alt="Vercel"> <img src="https://img.shields.io/badge/GitHub%20Actions-1B2016?style=flat-square&logo=githubactions&logoColor=C3B091" alt="GitHub Actions"> |
+| Testes | <img src="https://img.shields.io/badge/Vitest-1B2016?style=flat-square&logo=vitest&logoColor=C3B091" alt="Vitest"> <img src="https://img.shields.io/badge/Playwright-1B2016?style=flat-square" alt="Playwright"> |
+| Integrações e automação | <img src="https://img.shields.io/badge/Discord%20API-1B2016?style=flat-square&logo=discord&logoColor=C3B091" alt="Discord API"> <img src="https://img.shields.io/badge/n8n-1B2016?style=flat-square&logo=n8n&logoColor=C3B091" alt="n8n"> <img src="https://img.shields.io/badge/Make-1B2016?style=flat-square&logo=make&logoColor=C3B091" alt="Make"> <img src="https://img.shields.io/badge/Zapier-1B2016?style=flat-square&logo=zapier&logoColor=C3B091" alt="Zapier"> |
+| APIs de IA | <img src="https://img.shields.io/badge/Claude-1B2016?style=flat-square&logo=claude&logoColor=C3B091" alt="Claude"> <img src="https://img.shields.io/badge/OpenAI-1B2016?style=flat-square" alt="OpenAI"> <img src="https://img.shields.io/badge/Gemini-1B2016?style=flat-square&logo=googlegemini&logoColor=C3B091" alt="Gemini"> |
+| Em estudo | <img src="https://img.shields.io/badge/Python-1B2016?style=flat-square&logo=python&logoColor=C3B091" alt="Python"> |
 
-###
+## 03 · Trajetória
 
-<p align="left">✨ Criando bugs desde os primeiros "Hello World"<br>📚 Atualmente aprimorando JavaScript e React<br>🎯 Próximos passos: dominar TypeScript e mergulhar em Node.js para fortalecer o lado fullstack<br>🎲 Curiosidade: fascinado por criar interfaces criativas, explorar jogos e transformar ideias em projetos divertidos</p>
-
-###
-
-<h3 align="left">🛠 Linguagens e Ferramentas</h3>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="60" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" height="60" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="60" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" height="60" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-plain.svg" height="60" alt="discordjs logo"  />
-</div>
-
-###
-
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BryanWalace&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=onedark&locale=pt-br&hide_border=true" height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BryanWalace&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=onedark&hide_border=true" height="160" alt="languages graph"  />
-</div>
+- **Técnico de Suporte ao Usuário** · Instituto Pan Americano · atual
+- **Desenvolvedor front-end freelancer** · BwDev · 2024–atual
+- **Estagiário de TI** · Defensoria Pública do Estado do Paraná · 2023–2024
+- **Soldado** · Exército Brasileiro · 2019–2020
+- Análise e Desenvolvimento de Sistemas · Universidade Positivo · 2023–2025
